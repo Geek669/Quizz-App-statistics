@@ -478,7 +478,7 @@ const STORE = {
                     "De 0 a infinito.",
                     "No hay límite en los valores posibles."
                 ],
-                orrectAnswer: "De 0 a 1, inclusive."
+                correctAnswer: "De 0 a 1, inclusive."
 
             }, {
                 question: "¿Qué representan las probabilidades complementarias?",
@@ -552,7 +552,7 @@ const STORE = {
                     "Medidas de posición",
                     "Medidas de forma"
                 ],
-                correctAnswer5 : "Medidas de posición"
+                correctAnswer : "Medidas de posición"
             },
             
              
